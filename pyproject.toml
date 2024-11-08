@@ -1,0 +1,14 @@
+[project]
+name = "myutils"
+version = "0.1.0"
+description = "Personal package for fun"
+readme = "README.md"
+authors = [
+    { name = "Wang, Jie", email = "ifendo@outlook.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
