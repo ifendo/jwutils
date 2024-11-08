@@ -1,5 +1,5 @@
 [project]
-name = "myutils"
+name = "jwutils"
 version = "0.1.0"
 description = "Personal package for fun"
 readme = "README.md"
