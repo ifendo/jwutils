@@ -1,2 +1,2 @@
 def hello() -> str:
-    return "Hello from myutils!"
+    return "Hello from jwutils!"
