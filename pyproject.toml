@@ -1,6 +1,6 @@
 [project]
 name = "jwutils"
-version = "0.1.1"
+version = "0.1.2"
 description = "Personal package for fun"
 readme = "README.md"
 authors = [
